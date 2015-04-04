@@ -16,10 +16,11 @@ To be done:
     \___ \| '_ \ / _ \| '__| __| / __/ _ \| '_ \| |_  ~
      ___) | | | | (_) | |  | |_ | (_| (_) | | | |  _| ~
     |____/|_| |_|\___/|_|   \__(_)___\___/|_| |_|_|   ~
+ 
                                                        
-Version: ALPHA.1
-Author: Victor Roemer
-Last Changed: March 10, 2013
+    Version: ALPHA.1
+    Author: Victor Roemer
+    Last Changed: March 10, 2013
 
     ==============================================================================
     CONTENTS                                                          *hog-contents*
