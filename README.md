@@ -1,3 +1,7 @@
+
+This project has been merged into VIM; and I am now the maintainer of the vim filetype=hog
+ * Feel free to continue using this however if your vim is out-of-date; not bleeding edge.
+
 Provide better support for Snort configuration files in VIM. Includes 
  * Fixed syntax highlighting
  * Automatic indentation following a line continuation ('\')
